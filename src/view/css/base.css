@@ -32,6 +32,16 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 
     margin-top: 2%;
+}
+
+.carousel-inner{
+    width: 60%;
+    height: 60%;
+    margin-left: 20%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
 }
